@@ -1,0 +1,9 @@
+body { font-family: sans-serif; text-align: center; background: #f4f4f4; }
+.signal { display: flex; justify-content: center; margin-top: 40px; }
+.light {
+  width: 100px; height: 100px; margin: 0 30px; border-radius: 50%;
+  background-color: grey; box-shadow: 0 0 20px #ccc;
+}
+.red { background-color: red; }
+.green { background-color: green; }
+.yellow { background-color: yellow; }
